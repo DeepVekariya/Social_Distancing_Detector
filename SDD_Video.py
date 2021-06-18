@@ -1,3 +1,9 @@
+#################################################
+#            Name = Deep Vekariya               #
+#            Task-3(Social Distancing Detector) #                            #
+#################################################
+
+
 import numpy as np
 import time
 import cv2
